@@ -23,3 +23,14 @@ For the complete package you will need:
 - Python 2.7
 - PySerial: https://pypi.python.org/pypi/pyserial
 - Fritzing: http://fritzing.org/home/
+
+Enclosure
+=========
+Used the venerable http://www.makercase.com/.  
+- Width: 180mm
+- Height: 160
+- Depth: 180
+- Internal measures
+- 2.6mm plywood
+- Finger joint, 33mm distance
+- Laser cutting Kerf - 0.0635mm - great setting for FS Laser Generation 5
