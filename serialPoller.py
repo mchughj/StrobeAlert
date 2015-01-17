@@ -7,7 +7,7 @@ import httplib
 # Super simple test harness to ensure that the embedded program running on the arduino 
 # is functioning.
 
-serverInstance = "dev1725.prn1.facebook.com"
+serverInstance = "pechuk.devserver"
 serverPort = 8080
 defaultAlarmDuration = 10000
 
